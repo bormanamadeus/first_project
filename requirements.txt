@@ -10,7 +10,7 @@ six==1.15.0
 stevedore==3.3.0
 style==1.1.0
 update==0.0.1
-virtualenv==20.4.2
+virtualenv==20.26.6
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
 virtualenvwrapper-win==1.2.6
